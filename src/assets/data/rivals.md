@@ -50,6 +50,7 @@
 ## Подача заявки
 
 - Капитан команды подаёт заявку [здесь](https://docs.google.com/forms/d/1VWKnxc4JgqKg4XtLc4IwMkKLucEdl5ZMZSLqQGfS80g/edit?usp=sharing 'здесь')
+- Регистрация открыта до `24` сентября
 
 ## В заявке должна содержаться следующая информация:
 
